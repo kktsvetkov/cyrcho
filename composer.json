@@ -18,7 +18,6 @@
             "type": "vcs",
             "url": "https://github.com/kktsvetkov/cyrcho/"
         }
-      ]
-  },
+      ],
   "minimum-stability": "stable"
 }
