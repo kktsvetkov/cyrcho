@@ -11,13 +11,5 @@
     "psr-0": {
       "cyrcho": ""
     }
-  },
-  
-    "repositories": [
-      {
-            "type": "vcs",
-            "url": "https://github.com/kktsvetkov/cyrcho/"
-        }
-      ] ,
-   "minimum-stability": "stable"
+  } 
 }
