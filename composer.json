@@ -11,6 +11,5 @@
     "psr-0": {
       "cyrcho": ""
     }
-  }, 
-    "minimum-stability": "dev"
+  } 
 }
