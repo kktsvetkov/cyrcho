@@ -3,7 +3,7 @@
   "description": "Converts cyrillic into latin using the correct transliteration rules",
   "keywords": ["cyrcho", "latin", "transliteration", "cyrillic"],
   "homepage": "https://github.com/kktsvetkov/cyrcho/",
-  "license": "LGPL",
+  "license": "LGPL-3.0",
   "require": {
     "php": ">=5.2.0"
   },
@@ -11,6 +11,14 @@
     "psr-0": {
       "cyrcho": ""
     }
+  },
+  {
+    "repositories": [
+      {
+            "type": "vcs",
+            "url": "https://github.com/kktsvetkov/cyrcho/"
+        }
+      ]
   },
   "minimum-stability": "stable"
 }
